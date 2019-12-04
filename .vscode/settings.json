@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "files.encoding": "utf8",
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "git.fetchOnPull": true,
+  "git.promptToSaveFilesBeforeCommit": "always",
+  "merge-conflict.autoNavigateNextConflict.enabled": true
+}
