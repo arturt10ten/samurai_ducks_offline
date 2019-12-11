@@ -1,0 +1,25 @@
+{
+  "name": "samurai_ducks_offline",
+  "version": "1.0.0",
+  "description": "our first game",
+  "main": "electron.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturt10ten/samurai_ducks_offline.git"
+  },
+  "author": "team8",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/arturt10ten/samurai_ducks_offline/issues"
+  },
+  "homepage": "https://github.com/arturt10ten/samurai_ducks_offline#readme",
+  "devDependencies": {
+    "electron": "^7.1.4"
+  }
+}
