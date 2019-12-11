@@ -1,5 +1,8 @@
 let start = document.getElementById('start');
 let load = document.getElementById('load');
+load.addEventListener('click', () => {
+    location = './load.html';
+})
 let options = document.getElementById('opt');
 options.addEventListener('click', () => {
     location = './options.html';
