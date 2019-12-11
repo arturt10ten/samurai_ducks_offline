@@ -23,3 +23,12 @@ img {
   height: 100%;
   width: 100%;
 }
+button {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  font-size: 50px;
+}
+button.hidden {
+  display: none;
+}
