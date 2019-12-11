@@ -10,5 +10,5 @@ call_us.addEventListener('click', () => {
 })
 let exit = document.getElementById('exit');
 exit.addEventListener('click', () => {
-    close();
+    window.parent.postMessage({ 'event': 'close' })
 })
